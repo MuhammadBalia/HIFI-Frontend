@@ -1,0 +1,638 @@
+.menu-marhaban-fc,
+.text {
+  position: absolute;
+  font-family: "Luckiest Guy";
+}
+.text {
+  top: 11.38rem;
+  left: 37.63rem;
+  color: #000;
+}
+.menu-marhaban-fc {
+  top: 13.94rem;
+  left: calc(50% - 294px);
+  font-size: 4rem;
+  color: #ff8400;
+  display: inline-block;
+  width: 36.69rem;
+}
+.pesan-sekarang1 {
+  position: relative;
+}
+.pesan-sekarang-wrapper {
+  position: absolute;
+  top: 115.63rem;
+  left: calc(50% - 193px);
+  border-radius: 5px;
+  background-color: #ff8400;
+  width: 24.13rem;
+  height: 4.63rem;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0.75rem 1.25rem;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 1.88rem;
+}
+.group-child17 {
+  position: absolute;
+  top: calc(50% - 217px);
+  left: calc(50% - 183.5px);
+  border-radius: 20px;
+  width: 22.94rem;
+  height: 28.13rem;
+}
+.rp-10000 {
+  top: calc(50% + 153px);
+  left: calc(50% - 71.5px);
+  text-align: left;
+  width: 8.96rem;
+}
+.bumbu-marinasi,
+.bumbu-marinasi-yang,
+.rp-10000 {
+  position: absolute;
+  display: inline-block;
+}
+.bumbu-marinasi-yang {
+  top: calc(50% + 86px);
+  left: calc(50% - 167.5px);
+  font-size: 1.25rem;
+  line-height: 1.88rem;
+  font-weight: 300;
+  color: #000;
+  width: 20.94rem;
+}
+.bumbu-marinasi {
+  top: calc(50% + 21px);
+  left: calc(50% - 145.5px);
+  font-size: 2rem;
+  font-weight: 800;
+  width: 18.19rem;
+}
+.whatsapp-image-2023-11-16-at-2 {
+  position: absolute;
+  top: 0.06rem;
+  left: 0;
+  border-radius: 20px;
+  width: 20.94rem;
+  height: 12.81rem;
+  object-fit: cover;
+}
+.group-child18,
+.vector-parent {
+  position: absolute;
+  top: calc(50% + 269px);
+  left: calc(50% - 157px);
+  width: 20.94rem;
+  height: 26.13rem;
+}
+.group-child18 {
+  top: calc(50% - 209px);
+  left: calc(50% - 167.5px);
+  border-radius: 20px;
+  background-color: #fbe18a;
+  box-shadow: 0 8px 16px rgba(171, 190, 209, 0.4);
+}
+.rp-25000 {
+  position: absolute;
+  top: calc(50% + 153px);
+  left: calc(50% - 75.7px);
+  text-align: left;
+  display: inline-block;
+  width: 9.29rem;
+}
+.tepung-bumbu-crispy,
+.tepung-bumbu-crispy1 {
+  position: absolute;
+  left: calc(50% - 147.5px);
+  display: inline-block;
+}
+.tepung-bumbu-crispy {
+  top: calc(50% + 86px);
+  font-size: 1.25rem;
+  line-height: 1.88rem;
+  font-weight: 300;
+  color: #000;
+  width: 18.44rem;
+}
+.tepung-bumbu-crispy1 {
+  top: calc(50% + 5px);
+  font-size: 2rem;
+  line-height: 2.19rem;
+  font-weight: 800;
+  width: 18.38rem;
+}
+.rectangle-parent8 {
+  position: absolute;
+  top: calc(50% + 269px);
+  left: calc(50% - 581px);
+  width: 20.94rem;
+  height: 26.13rem;
+}
+.rp-100001 {
+  top: calc(50% + 151px);
+  left: calc(50% - 71.5px);
+  text-align: left;
+  width: 8.9rem;
+}
+.dibuat-dengan-100,
+.rp-100001,
+.zyban-drink {
+  position: absolute;
+  display: inline-block;
+}
+.dibuat-dengan-100 {
+  top: calc(50% + 81px);
+  left: calc(50% - 147.6px);
+  font-size: 1.25rem;
+  line-height: 1.88rem;
+  font-weight: 300;
+  color: #000;
+  width: 18.39rem;
+}
+.zyban-drink {
+  top: calc(50% + 20px);
+  left: calc(50% - 140.5px);
+  font-size: 2rem;
+  font-weight: 800;
+  width: 17.46rem;
+}
+.most-popular-thai-drinks-that {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  width: 20.94rem;
+  height: 12.81rem;
+  object-fit: cover;
+}
+.rectangle-parent9 {
+  position: absolute;
+  top: calc(50% - 245px);
+  left: calc(50% + 246px);
+  width: 20.94rem;
+  height: 26.13rem;
+}
+.rp-2000 {
+  top: calc(50% + 151px);
+  left: calc(50% - 68.5px);
+  text-align: left;
+  width: 8.5rem;
+  height: 2.5rem;
+}
+.dibuat-dengan-1001,
+.es-teh,
+.rp-2000 {
+  position: absolute;
+  display: inline-block;
+}
+.dibuat-dengan-1001 {
+  top: calc(50% + 81px);
+  left: calc(50% - 148.5px);
+  font-size: 1.25rem;
+  line-height: 1.88rem;
+  font-weight: 300;
+  color: #000;
+  width: 18.56rem;
+}
+.es-teh {
+  top: calc(50% + 20px);
+  left: calc(50% - 138.5px);
+  font-size: 2rem;
+  font-weight: 800;
+  width: 17.31rem;
+}
+.rectangle-parent10 {
+  position: absolute;
+  top: calc(50% - 245px);
+  left: calc(50% - 157px);
+  width: 20.94rem;
+  height: 26.13rem;
+}
+.ayam-crispy-yang2,
+.rp-12000-190001 {
+  position: absolute;
+  display: inline-block;
+}
+.rp-12000-190001 {
+  top: calc(50% + 151px);
+  left: calc(50% - 127.5px);
+  text-align: left;
+  width: 15.89rem;
+}
+.ayam-crispy-yang2 {
+  top: calc(50% + 81px);
+  left: calc(50% - 167.5px);
+  font-size: 1.25rem;
+  line-height: 1.88rem;
+  font-weight: 300;
+  color: #000;
+  width: 20.94rem;
+}
+.ayam-pedas-sauce1 {
+  position: absolute;
+  top: calc(50% + 4px);
+  left: calc(50% - 148.5px);
+  font-size: 2rem;
+  line-height: 2.19rem;
+  font-weight: 800;
+  display: inline-block;
+  width: 18.5rem;
+}
+.rectangle-parent11 {
+  position: absolute;
+  top: calc(50% - 245px);
+  left: calc(50% - 581px);
+  width: 20.94rem;
+  height: 26.13rem;
+}
+.rp-8000-150001 {
+  top: calc(50% + 154px);
+  left: calc(50% - 118.5px);
+  font-family: Inter;
+  width: 14.86rem;
+  height: 2.2rem;
+}
+.ayam-crispy-yang3,
+.ayam-original1,
+.rp-8000-150001 {
+  position: absolute;
+  display: inline-block;
+}
+.ayam-crispy-yang3 {
+  top: calc(50% + 83px);
+  left: calc(50% - 148.5px);
+  font-size: 1.25rem;
+  line-height: 1.88rem;
+  font-weight: 300;
+  color: #000;
+  text-align: center;
+  width: 18.62rem;
+}
+.ayam-original1 {
+  top: calc(50% + 24px);
+  left: calc(50% - 122.5px);
+  font-size: 2rem;
+  font-weight: 800;
+  width: 15.31rem;
+}
+.resepi-ayam-goreng-tepung-32 {
+  position: absolute;
+  top: calc(50% - 209px);
+  left: calc(50% - 167.5px);
+  border-radius: 20px;
+  width: 20.94rem;
+  height: 12.81rem;
+  object-fit: cover;
+}
+.rectangle-parent12 {
+  position: absolute;
+  top: calc(50% - 753px);
+  left: calc(50% + 246px);
+  width: 20.94rem;
+  height: 26.13rem;
+  text-align: left;
+}
+.rp-11000-180001 {
+  position: absolute;
+  top: calc(50% + 150px);
+  left: calc(50% - 118.5px);
+  text-align: left;
+}
+.ayam-crispy-yang4,
+.ayam-geprek-sambal1 {
+  position: absolute;
+  left: calc(50% - 146.5px);
+  display: inline-block;
+  width: 18.31rem;
+}
+.ayam-crispy-yang4 {
+  top: calc(50% + 83px);
+  font-size: 1.25rem;
+  font-weight: 300;
+  color: #000;
+}
+.ayam-geprek-sambal1 {
+  top: calc(50% + 2px);
+  font-size: 2rem;
+  line-height: 2.19rem;
+  font-weight: 800;
+}
+.rectangle-parent13 {
+  position: absolute;
+  top: calc(50% - 753px);
+  left: calc(50% - 161px);
+  width: 20.94rem;
+  height: 26.13rem;
+}
+.ayam-crispy-yang5,
+.rp-11000-180002 {
+  position: absolute;
+  display: inline-block;
+}
+.rp-11000-180002 {
+  top: calc(50% + 150px);
+  left: calc(50% - 124.5px);
+  text-align: left;
+  width: 15.51rem;
+}
+.ayam-crispy-yang5 {
+  top: calc(50% + 83px);
+  left: calc(50% - 167.5px);
+  font-size: 1.25rem;
+  line-height: 1.88rem;
+  font-weight: 300;
+  color: #000;
+  width: 20.94rem;
+}
+.ayam-geprek-sambal2 {
+  position: absolute;
+  top: calc(50% + 2px);
+  left: calc(50% - 147.5px);
+  font-size: 2rem;
+  line-height: 2.19rem;
+  font-weight: 800;
+  display: inline-block;
+  width: 18.48rem;
+}
+.rectangle-parent14 {
+  position: absolute;
+  top: calc(50% - 753px);
+  left: calc(50% - 581px);
+  width: 20.94rem;
+  height: 26.13rem;
+}
+.group-parent1 {
+  position: absolute;
+  top: 19rem;
+  left: calc(50% - 588px);
+  width: 73.5rem;
+  height: 94.13rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: 1.88rem;
+}
+.navbar-child2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #ff8400;
+  width: 90rem;
+  height: 5.94rem;
+}
+.group-icon6 {
+  position: absolute;
+  height: 35.26%;
+  width: 2.29%;
+  top: 32.11%;
+  right: 6.22%;
+  bottom: 32.63%;
+  left: 91.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.proction-removebg-preview-14 {
+  position: absolute;
+  top: 0.75rem;
+  left: 3.88rem;
+  width: 13.19rem;
+  height: 4.44rem;
+}
+.logo-marhaban-fc-removebg-prev-icon10 {
+  position: absolute;
+  top: 1.31rem;
+  left: 1.44rem;
+  width: 12.25rem;
+  height: 3.88rem;
+  object-fit: cover;
+}
+.span3 {
+  color: #000;
+}
+.beranda4 {
+  display: inline-block;
+  width: 6.13rem;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.beranda4,
+.menu5,
+.paket-fc5 {
+  position: relative;
+  font-weight: 800;
+}
+.menu5 {
+  color: #fff;
+}
+.paket-fc5 {
+  cursor: pointer;
+}
+.beranda-parent1 {
+  position: absolute;
+  top: 1.69rem;
+  right: 4.25rem;
+  width: 46.63rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0.63rem;
+  box-sizing: border-box;
+  gap: 4.06rem;
+}
+.navbar4 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  background-color: #ff8400;
+  box-shadow: 0 4px 50px rgba(0, 0, 0, 0.25);
+  height: 5.94rem;
+}
+.arrows-icon4 {
+  position: absolute;
+  right: 1.06rem;
+  bottom: 1.25rem;
+  width: 2.13rem;
+  height: 2.13rem;
+}
+.group-child27 {
+  top: 1.22rem;
+  left: -0.03rem;
+  border-right: 1px solid #fff;
+  box-sizing: border-box;
+  width: 0.06rem;
+  height: 25.44rem;
+}
+.div5,
+.group-child27,
+.icon12 {
+  position: absolute;
+}
+.icon12 {
+  top: 14rem;
+  left: 5.06rem;
+  width: 1.94rem;
+  height: 1.5rem;
+  overflow: hidden;
+}
+.div5 {
+  top: -35%;
+  left: 0;
+}
+.phone-number4 {
+  position: absolute;
+  top: 14.13rem;
+  left: 7.81rem;
+  width: 10.19rem;
+  height: 1.25rem;
+}
+.email11 {
+  position: absolute;
+  top: -3.03%;
+  left: 0.69%;
+}
+.email10,
+.icon13,
+.icon14 {
+  position: absolute;
+  top: 11.25rem;
+  left: 7.69rem;
+  width: 18.19rem;
+  height: 2.06rem;
+}
+.icon13,
+.icon14 {
+  top: 11.56rem;
+  left: 5.06rem;
+  width: 1.94rem;
+  height: 1.5rem;
+  overflow: hidden;
+}
+.icon14 {
+  top: 7.38rem;
+  height: 2.19rem;
+}
+.wisconsin-ave-suite4 {
+  position: absolute;
+  width: 100%;
+  top: 2.82%;
+  left: 0;
+  display: flex;
+  align-items: center;
+}
+.address8 {
+  position: absolute;
+  top: 6.38rem;
+  left: 7.81rem;
+  width: 36.75rem;
+  height: 4.44rem;
+}
+.hubungi-kami5 {
+  position: absolute;
+  top: 0;
+  left: 5.25rem;
+  font-size: 4rem;
+  display: inline-block;
+  width: 29.44rem;
+}
+.line-parent2 {
+  position: absolute;
+  top: 2.06rem;
+  left: 24rem;
+  width: 44.56rem;
+  height: 26.63rem;
+}
+.social-icon16 {
+  position: relative;
+  width: 1.88rem;
+  height: 1.88rem;
+}
+.social-parent2 {
+  position: absolute;
+  top: 12.38rem;
+  left: 8rem;
+  width: 10.56rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1rem;
+}
+.group-icon7 {
+  position: absolute;
+  height: 8.82%;
+  width: 6.04%;
+  top: 89.21%;
+  right: 13.18%;
+  bottom: 1.97%;
+  left: 80.77%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.marhaban-fc-merupakan4 {
+  margin: 0;
+}
+.wisconsin-ave-suite-container9 {
+  line-break: anywhere;
+  width: 100%;
+}
+.wisconsin-ave-suite-container8 {
+  position: absolute;
+  width: 100%;
+  top: 2.86%;
+  left: 0;
+  display: flex;
+  align-items: center;
+}
+.address9 {
+  position: absolute;
+  top: 4.75rem;
+  left: 1.31rem;
+  width: 19.69rem;
+  height: 6.56rem;
+}
+.logo-marhaban-fc-removebg-prev-icon11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 17.88rem;
+  height: 3.88rem;
+  object-fit: cover;
+}
+.frame-parent3 {
+  position: absolute;
+  top: 3.69rem;
+  left: 3rem;
+  width: 21rem;
+  height: 14.25rem;
+}
+.footer-774 {
+  position: absolute;
+  width: 100%;
+  top: 126.38rem;
+  right: 0;
+  left: 0;
+  background-color: #ff8400;
+  height: 30.5rem;
+  font-size: 1.38rem;
+  color: #fff;
+}
+.menu4 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 156.88rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 1.25rem;
+  color: #4f200d;
+  font-family: Poppins;
+}

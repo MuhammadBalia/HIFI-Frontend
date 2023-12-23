@@ -1,0 +1,579 @@
+.menu-favorit,
+.testimoni {
+  position: absolute;
+  top: 162.38rem;
+  left: calc(50% - 158.5px);
+  font-family: "Luckiest Guy";
+  color: #ff8400;
+}
+.menu-favorit {
+  top: 120.88rem;
+  left: calc(50% - 206.5px);
+}
+.group-child {
+  position: absolute;
+  top: calc(50% - 218.5px);
+  left: calc(50% - 167.5px);
+  border-radius: 20px;
+  background-color: #fbe18a;
+  box-shadow: 0 8px 16px rgba(171, 190, 209, 0.4);
+  width: 20.94rem;
+  height: 27.31rem;
+}
+.group-item {
+  position: absolute;
+  top: 2.06rem;
+  left: 4.25rem;
+  width: 12.41rem;
+  height: 12.13rem;
+  object-fit: cover;
+}
+.saya-bangga-bisa {
+  position: absolute;
+  top: 18.25rem;
+  left: 0;
+  display: inline-block;
+  width: 20.94rem;
+}
+.rectangle-parent {
+  position: relative;
+  width: 20.94rem;
+  height: 27.31rem;
+}
+.group-wrapper {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 164px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.alhamdulillah-gak-nyangka {
+  margin: 0;
+}
+.alhamdulillah-gak-nyangka-container {
+  position: absolute;
+  top: 18rem;
+  left: 0.63rem;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 19.63rem;
+}
+.group-icon {
+  position: absolute;
+  top: 2.06rem;
+  left: 4.5rem;
+  width: 12.88rem;
+  height: 12.81rem;
+  object-fit: cover;
+}
+.group-container {
+  position: absolute;
+  top: 0;
+  left: calc(50% + 264px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.udah-percaya-banget-container {
+  position: absolute;
+  top: 17.88rem;
+  left: 0;
+  display: inline-block;
+  width: 20.94rem;
+}
+.group-child1 {
+  position: absolute;
+  top: 2.06rem;
+  left: 4.88rem;
+  width: 12.06rem;
+  height: 12.06rem;
+  object-fit: cover;
+}
+.group-frame {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 599px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent {
+  position: absolute;
+  top: 169.81rem;
+  left: calc(50% - 602.5px);
+  width: 74.88rem;
+  height: 27.31rem;
+  text-align: center;
+  font-size: 1.25rem;
+  color: #000;
+}
+.logo-marhaban-fc-removebg-prev-icon {
+  position: absolute;
+  height: calc(100% - 291px);
+  top: 0;
+  bottom: 18.19rem;
+  left: calc(50% - 219px);
+  max-height: 100%;
+  width: 32.44rem;
+  object-fit: cover;
+}
+.marhaban-fc-adalah {
+  position: absolute;
+  top: 18.38rem;
+  left: calc(50% - 603px);
+  display: flex;
+  align-items: center;
+  width: 49.81rem;
+}
+.download-logo-resmi-halal-terb-icon {
+  position: absolute;
+  height: calc(100% - 230px);
+  top: 14.38rem;
+  bottom: 0;
+  left: calc(50% + 206px);
+  max-height: 100%;
+  width: 24.81rem;
+  object-fit: cover;
+}
+.logo-marhaban-fc-removebg-prev-parent {
+  position: absolute;
+  height: calc(100% - 3178px);
+  top: 76.44rem;
+  bottom: 122.19rem;
+  left: calc(50% - 604.5px);
+  width: 75.38rem;
+  text-align: justify;
+  font-size: 2rem;
+}
+.fried-chicken-marhaban-true-2,
+.logo-marhaban-fc-removebg-prev-icon1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 669.5px);
+  width: 83.69rem;
+  height: 68.69rem;
+  object-fit: cover;
+}
+.logo-marhaban-fc-removebg-prev-icon1 {
+  left: calc(50% + 107.5px);
+  width: 32.44rem;
+  height: 19.44rem;
+}
+.fried-chicken-marhaban-true-2-parent {
+  position: absolute;
+  top: 5.94rem;
+  left: calc(50% - 669.5px);
+  width: 83.69rem;
+  height: 68.69rem;
+}
+.group-child2 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% - 167.5px);
+  border-radius: 20px;
+  background-color: #fbe18a;
+  box-shadow: 0 8px 16px rgba(171, 190, 209, 0.4);
+  width: 20.94rem;
+}
+.rp-11000-18000 {
+  position: absolute;
+  top: 22.44rem;
+  left: calc(50% - 118.5px);
+  text-align: left;
+}
+.ayam-crispy-yang,
+.ayam-geprek-sambal {
+  position: absolute;
+  left: calc(50% - 146.5px);
+  display: inline-block;
+  width: 18.31rem;
+}
+.ayam-crispy-yang {
+  top: 18.31rem;
+  font-size: 1.25rem;
+  font-weight: 300;
+  color: #000;
+}
+.ayam-geprek-sambal {
+  top: 13.56rem;
+  font-size: 2rem;
+  line-height: 2.19rem;
+  font-weight: 800;
+}
+.group-div,
+.rectangle-icon {
+  position: absolute;
+  top: 0;
+  width: 20.94rem;
+}
+.rectangle-icon {
+  height: calc(100% - 213px);
+  bottom: 13.31rem;
+  left: calc(50% - 167.5px);
+  border-radius: 20px;
+  max-height: 100%;
+  object-fit: cover;
+}
+.group-div {
+  height: 100%;
+  bottom: 0;
+  left: calc(50% + 264px);
+}
+.rp-12000-19000 {
+  top: 22.75rem;
+  left: calc(50% - 127.5px);
+  font-family: Inter;
+  text-align: left;
+  width: 15.89rem;
+}
+.ayam-crispy-yang1,
+.ayam-pedas-sauce,
+.rp-12000-19000 {
+  position: absolute;
+  display: inline-block;
+}
+.ayam-crispy-yang1 {
+  top: 18.31rem;
+  left: calc(50% - 158.5px);
+  font-size: 1.25rem;
+  font-weight: 300;
+  color: #000;
+  width: 19.81rem;
+}
+.ayam-pedas-sauce {
+  top: 13.56rem;
+  left: calc(50% - 134.5px);
+  font-size: 2rem;
+  line-height: 2.19rem;
+  font-weight: 800;
+  width: 16.81rem;
+}
+.rectangle-parent1 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% - 164px);
+  width: 20.94rem;
+}
+.rp-8000-15000 {
+  top: 22.44rem;
+  left: calc(50% - 118.5px);
+  width: 14.86rem;
+}
+.ayam-crrispy-yang,
+.ayam-original,
+.rp-8000-15000 {
+  position: absolute;
+  display: inline-block;
+}
+.ayam-crrispy-yang {
+  top: 18.31rem;
+  left: calc(50% - 148.5px);
+  font-size: 1.25rem;
+  font-weight: 300;
+  color: #000;
+  text-align: center;
+  width: 18.62rem;
+}
+.ayam-original {
+  height: calc(100% - 373px);
+  top: 14.31rem;
+  left: calc(50% - 123.5px);
+  font-size: 2rem;
+  font-weight: 800;
+  width: 15.44rem;
+}
+.rectangle-parent2 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% - 599px);
+  width: 20.94rem;
+  text-align: left;
+}
+.group-parent {
+  position: absolute;
+  height: calc(100% - 3362px);
+  top: 128.56rem;
+  bottom: 81.56rem;
+  left: calc(50% - 602.5px);
+  width: 74.88rem;
+  text-align: center;
+  font-size: 1.88rem;
+}
+.navbar-child {
+  position: relative;
+  background-color: #ff8400;
+  width: 90rem;
+  height: 5.94rem;
+  z-index: 0;
+}
+.group-icon1 {
+  position: absolute;
+  margin: 0 !important;
+  height: 35.26%;
+  width: 2.27%;
+  top: 32.11%;
+  right: 6.22%;
+  bottom: 32.63%;
+  left: 91.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.proction-removebg-preview-1 {
+  position: absolute;
+  margin: 0 !important;
+  top: 0.75rem;
+  left: 3.88rem;
+  width: 13.19rem;
+  height: 4.44rem;
+  z-index: 2;
+}
+.logo-marhaban-fc-removebg-prev-icon2 {
+  position: absolute;
+  margin: 0 !important;
+  top: 1.25rem;
+  left: 1.44rem;
+  width: 12.25rem;
+  height: 3.88rem;
+  object-fit: cover;
+  z-index: 3;
+}
+.beranda,
+.menu {
+  display: inline-block;
+  flex-shrink: 0;
+}
+.beranda {
+  position: relative;
+  font-weight: 800;
+  color: #fff;
+  width: 7.5rem;
+}
+.menu {
+  width: 3.75rem;
+}
+.menu,
+.paket-fc {
+  position: relative;
+  font-weight: 800;
+  cursor: pointer;
+}
+.beranda-parent,
+.navbar {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.beranda-parent {
+  margin: 0 !important;
+  top: 1.69rem;
+  right: 4.38rem;
+  width: 46.63rem;
+  align-items: center;
+  padding: 0.63rem;
+  box-sizing: border-box;
+  gap: 4.06rem;
+  z-index: 4;
+}
+.navbar {
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  background-color: #ff8400;
+  box-shadow: 0 4px 50px rgba(0, 0, 0, 0.25);
+  height: 5.94rem;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 0.63rem;
+  font-size: 1.25rem;
+}
+.arrows-icon {
+  position: absolute;
+  right: 4.25rem;
+  bottom: 1.25rem;
+  width: 2.13rem;
+  height: 2.13rem;
+}
+.line-div {
+  top: 1.22rem;
+  left: -0.03rem;
+  border-right: 1px solid #fff;
+  box-sizing: border-box;
+  width: 0.06rem;
+  height: 25.44rem;
+}
+.div,
+.icon,
+.line-div {
+  position: absolute;
+}
+.icon {
+  top: 14rem;
+  left: 5.06rem;
+  width: 1.94rem;
+  height: 1.5rem;
+  overflow: hidden;
+}
+.div {
+  top: -35%;
+  left: 0;
+}
+.phone-number {
+  position: absolute;
+  top: 14.13rem;
+  left: 7.81rem;
+  width: 10.19rem;
+  height: 1.25rem;
+}
+.email1 {
+  position: absolute;
+  top: -3.03%;
+  left: 0.69%;
+}
+.email,
+.icon1,
+.icon2 {
+  position: absolute;
+  top: 11.25rem;
+  left: 7.69rem;
+  width: 18.19rem;
+  height: 2.06rem;
+}
+.icon1,
+.icon2 {
+  top: 11.56rem;
+  left: 5.06rem;
+  width: 1.94rem;
+  height: 1.5rem;
+  overflow: hidden;
+}
+.icon2 {
+  top: 7.38rem;
+  height: 2.19rem;
+}
+.wisconsin-ave-suite {
+  position: absolute;
+  width: 100%;
+  top: 2.82%;
+  left: 0;
+  display: flex;
+  align-items: center;
+}
+.address {
+  position: absolute;
+  top: 6.38rem;
+  left: 7.81rem;
+  width: 36.75rem;
+  height: 4.44rem;
+}
+.hubungi-kami {
+  position: absolute;
+  top: 0;
+  left: 5.25rem;
+  font-size: 4rem;
+  display: inline-block;
+  width: 29.44rem;
+}
+.line-parent {
+  position: absolute;
+  top: 2.06rem;
+  left: 24rem;
+  width: 44.56rem;
+  height: 26.63rem;
+}
+.social-icon {
+  position: relative;
+  width: 1.88rem;
+  height: 1.88rem;
+}
+.social-parent {
+  position: absolute;
+  top: 12.38rem;
+  left: 8rem;
+  width: 10.56rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1rem;
+}
+.group-icon2 {
+  position: absolute;
+  height: 8.82%;
+  width: 6.52%;
+  top: 89.21%;
+  right: 4.43%;
+  bottom: 1.97%;
+  left: 89.05%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.wisconsin-ave-suite-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.wisconsin-ave-suite-container {
+  position: absolute;
+  width: 100%;
+  top: 2.86%;
+  left: 0;
+  display: flex;
+  align-items: center;
+}
+.address1 {
+  position: absolute;
+  top: 4.75rem;
+  left: 1.31rem;
+  width: 19.69rem;
+  height: 6.56rem;
+}
+.logo-marhaban-fc-removebg-prev-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 17.88rem;
+  height: 3.88rem;
+  object-fit: cover;
+}
+.frame-group {
+  position: absolute;
+  top: 3.69rem;
+  left: 3rem;
+  width: 21rem;
+  height: 14.25rem;
+}
+.footer-77 {
+  position: absolute;
+  width: 100%;
+  top: 205.75rem;
+  right: 0;
+  left: 0;
+  background-color: #ff8400;
+  height: 30.5rem;
+  font-size: 1.38rem;
+  color: #fff;
+}
+.beranda-user {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 236.25rem;
+  text-align: left;
+  font-size: 4rem;
+  color: #4f200d;
+  font-family: Poppins;
+}
